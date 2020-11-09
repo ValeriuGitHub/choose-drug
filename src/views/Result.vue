@@ -115,6 +115,9 @@ export default {
     display: flex;
     flex-direction: column;
     flex: 1;
+    @include desktops {
+      margin-top: 60px;
+    }
     @include laptops {
       margin-top: 50px;
       padding-left: 0px;
