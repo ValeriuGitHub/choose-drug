@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Марія",
+    "age": "19",
+    "image": "1-user.jpg",
+    "desc": "Бабуся приймає брендовий препарат від болю в суглобах, він допомагає, але занадто дорогий. У Вас є якісний аналог з нижчою ціною? Якщо ні — давайте бренд.",
+    "selectedFirstGroup": [],
+    "selectedSecondGroup": [],
+    "selectedThirdGroup": []
+  },
+  {
+    "id": 2,
+    "name": "Степан",
+    "age": "61",
+    "image": "2-user.jpg",
+    "desc": "Спросоння відсунув гарячий чайник рукою та обпікся. У Вас всі ліки від опіків такі дорогі? Можна хороший препарат недорого?",
+    "selectedFirstGroup": [],
+    "selectedSecondGroup": [],
+    "selectedThirdGroup": []
+  },
+  {
+    "id": 3,
+    "name": "Любов",
+    "age": "58",
+    "image": "3-user.jpg",
+    "desc": "Лікар призначив препарат від артеріальної гіпертензії, а бренд дорого коштує. Тому мені потрібен аналог з хорошою ефективністю та приємною ціною.",
+    "selectedFirstGroup": [],
+    "selectedSecondGroup": [],
+    "selectedThirdGroup": []
+  },
+  {
+    "id": 4,
+    "name": "Олександр",
+    "age": "20",
+    "image": "4-user.jpg",
+    "desc": "Порекомендуйте ефективний препарат від болю в горлі за розумну ціну.",
+    "selectedFirstGroup": [],
+    "selectedSecondGroup": [],
+    "selectedThirdGroup": []
+  },
+  {
+    "id": 5,
+    "name": "Ірина",
+    "age": "55",
+    "image": "5-user.jpg",
+    "desc": "У мене часто невралгії, лікар призначив вітаміни групи В. Мені потрібен якісний аналог за прийнятною ціною.",
+    "selectedFirstGroup": [],
+    "selectedSecondGroup": [],
+    "selectedThirdGroup": []
+  }
+]

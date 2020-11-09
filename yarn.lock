@@ -4896,6 +4896,11 @@ inquirer@^7.0.0, inquirer@^7.1.0:
     strip-ansi "^6.0.0"
     through "^2.3.6"
 
+interact.js@^1.2.8:
+  version "1.2.8"
+  resolved "https://registry.yarnpkg.com/interact.js/-/interact.js-1.2.8.tgz#b62bc004563b5c6f294b6b115b396205d843f60b"
+  integrity sha1-tivABFY7XG8pS2sRWzliBdhD9gs=
+
 internal-ip@^4.3.0:
   version "4.3.0"
   resolved "https://registry.yarnpkg.com/internal-ip/-/internal-ip-4.3.0.tgz#845452baad9d2ca3b69c635a137acb9a0dad0907"
@@ -8865,15 +8870,17 @@ vue-template-es2015-compiler@^1.9.0:
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
 
+vue2-interact@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/vue2-interact/-/vue2-interact-0.0.3.tgz#b5463a44cfa6a411c5231b0e302fb726cfb11574"
+  integrity sha512-jfJ3Eo33ut2PqCOkh4mTcDLQdwkSN5eBf/VWYTpmLLBIn//xWZE4Hjn7Qc7Pv9STd581+oswSua4E3A+/h579w==
+  dependencies:
+    interact.js "^1.2.8"
+
 vue@^2.6.11:
   version "2.6.12"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.12.tgz#f5ebd4fa6bd2869403e29a896aed4904456c9123"
   integrity sha512-uhmLFETqPPNyuLLbsKz6ioJ4q7AZHzD8ZVFNATNyICSZouqP2Sz0rotWQC8UNBF6VGSCs5abnKJoStA6JbCbfg==
-
-vuex@^3.4.0:
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/vuex/-/vuex-3.5.1.tgz#f1b8dcea649bc25254cf4f4358081dbf5da18b3d"
-  integrity sha512-w7oJzmHQs0FM9LXodfskhw9wgKBiaB+totOdb8sNzbTB2KDCEEwEs29NzBZFh/lmEK1t5tDmM1vtsO7ubG1DFw==
 
 watchpack-chokidar2@^2.0.0:
   version "2.0.0"

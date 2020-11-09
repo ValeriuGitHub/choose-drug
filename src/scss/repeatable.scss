@@ -1,0 +1,19 @@
+.circle {
+  width: 70px;
+  height: 70px;
+  background-color: #fff;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.5s;
+  margin-right: 38px;
+  &:hover {
+    opacity: 0.9;
+  }
+}
+
+.green {
+  background: linear-gradient(63.53deg, #2D8550 16.62%, #5E6EC2 83.38%);
+}
