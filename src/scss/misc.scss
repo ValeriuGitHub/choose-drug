@@ -1,11 +1,11 @@
 @mixin desktops() {
-	@media screen and (min-width: 1620px) {
+	@media screen and (min-width: 1450px) {
 		@content;
 	}
 }
 
 @mixin bigLaptops() {
-  @media screen and (max-width: 1520px) {
+  @media screen and (max-width: 1449px) {
     @content;
   }
 }
